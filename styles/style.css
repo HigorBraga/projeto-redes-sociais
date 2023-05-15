@@ -41,3 +41,12 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+
+#tela {
+    position: relative;
+    top: 5em;
+    left: 1.375em;
+    width: 16.813em;
+    height: 29.438em;
+}
